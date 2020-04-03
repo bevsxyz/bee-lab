@@ -1,0 +1,3 @@
+[submodule "docs/themes/hugograyscale"]
+	path = docs/themes/hugograyscale
+	url = https://github.com/runningstream/hugograyscale.git
