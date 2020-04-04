@@ -3,7 +3,7 @@ title: "Contact"
 weight: 4
 ---
 
-## Contact Start Bootstrap
+## Contact Samay Pande
 
 Feel free to leave us a comment on the [Grayscale template Github page](https://github.com/runningstream/hugograyscale/) to give some feedback about this theme!
 
