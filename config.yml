@@ -1,0 +1,22 @@
+name: Push to GitHub Pages on push to gh-pages
+on:
+  push:
+    branches:
+      - gh-pages
+
+jobs:
+  build:
+    name: Deploy
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout gh-pages
+        uses: actions/checkout@v1
+
+      - name: Deploy the site
+        uses: chain-ed-reaction/bee-lab@gh-pages
+        env:
+          HUGO_VERSION: 0.57.2
+          TARGET_REPO: chain-ed-reaction/bee-lab@gh-pages
+          TOKEN: ${{ secrets.TOKEN }}
+          HUGO_ARGS: '-t hugogreyscale'
+          #CNAME: benmatselby.github.io
