@@ -1,3 +1,6 @@
 [submodule "docs/themes/hugograyscale"]
 	path = docs/themes/hugograyscale
 	url = https://github.com/runningstream/hugograyscale.git
+[submodule "ec-grow"]
+	path = ec-grow
+	url = https://github.com/chain-ed-reaction/ec-grow.git
