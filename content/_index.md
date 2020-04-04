@@ -5,5 +5,5 @@ copyright: "BeVAn"
 description: "A port of the Grayscale theme to Hugo"
 
 menu:
-    - {url: "https://startbootstrap.com/themes/grayscale/", name: "Original"}
+    - {url: "https://github.com/chain-ed-reaction/bee-lab", name: "Lab Repository"}
 ---
