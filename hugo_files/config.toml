@@ -1,0 +1,17 @@
+baseURL = "https://chain-ed-reaction.github.io/bee-lab/"
+languageCode = "en-us"
+title = "Hugo Grayscale Theme"
+theme = "hugograyscale"
+#googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "The official site of the BEE_LAB"
+
+[Author]
+    name = "Bevan Stanely"
+    email = "dco@runningstream.net"
+
+[Social]
+    twitter = "stream_running"

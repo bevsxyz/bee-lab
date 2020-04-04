@@ -1,5 +1,5 @@
-[submodule "docs/themes/hugograyscale"]
-	path = docs/themes/hugograyscale
+[submodule "hugo_files/themes/hugograyscale"]
+	path = hugo_files/themes/hugograyscale
 	url = https://github.com/runningstream/hugograyscale.git
 [submodule "ec-grow"]
 	path = ec-grow
