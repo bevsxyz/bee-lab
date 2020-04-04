@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The BEE-Lab on Hugo Grayscale Theme</title>
+    <link>https://chain-ed-reaction.github.io/bee-lab/</link>
+    <description>Recent content in The BEE-Lab on Hugo Grayscale Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>dco@runningstream.net (Bevan Stanely)</managingEditor>
+    <webMaster>dco@runningstream.net (Bevan Stanely)</webMaster>
+    <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://chain-ed-reaction.github.io/bee-lab/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
